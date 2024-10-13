@@ -1,0 +1,4 @@
+
+Tautología
+
+Contradicción

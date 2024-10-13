@@ -1,0 +1,1 @@
+$$(p \rightarrow q) \land p \Longrightarrow q$$

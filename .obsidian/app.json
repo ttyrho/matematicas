@@ -1,0 +1,10 @@
+{
+  "showLineNumber": true,
+  "useTab": false,
+  "readableLineLength": true,
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "Plantillas/"
+  ]
+}

@@ -1,0 +1,1 @@
+$$(p \rightarrow q) \land \neg q \Longrightarrow \neg p$$
