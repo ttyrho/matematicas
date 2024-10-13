@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - teoria
 aliases:
 ---
 # Negación lógica
@@ -13,6 +14,11 @@ aliases:
 
 Escriba la tabla de verdad de la negación lógica
 :multiline-flashcard:
+
+| $p$ | $\neg p$ |
+| :-: | :------: |
+|  0  |    1     |
+|  1  |    0     |
 
 ## Referencias
 - [[delgado2020lenguaje2e|Lenguaje Matemático, Conjuntos y Números (2ª Ed.)]]
