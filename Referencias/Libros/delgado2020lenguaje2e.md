@@ -2,9 +2,9 @@
 tags:
   - referencia
 aliases:
-  - Lenguaje Matemático, Conjuntos y Números
+  - Lenguaje Matemático, Conjuntos y Números (2ª Ed.)
 ---
-# [Lenguaje Matemático, Conjuntos y Números](https://www.sanzytorres.es/libros/lenguaje-matematico-conjuntos-y-numeros/9788415550921/)
+# [Lenguaje Matemático, Conjuntos y Números (2ª Ed.)](https://www.sanzytorres.es/libros/lenguaje-matematico-conjuntos-y-numeros/9788415550921/)
 
 >[!info]+ Ficha
 >- **Tipo**:: [[Monografía]]

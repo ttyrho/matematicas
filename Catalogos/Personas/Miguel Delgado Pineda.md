@@ -1,4 +1,6 @@
 ---
+tags:
+  - catalogo
 aliases:
 ---
 # Miguel Delgado Pineda

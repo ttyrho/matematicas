@@ -1,4 +1,6 @@
 ---
+tags:
+  - catalogo
 aliases:
 ---
 # <%tp.file.title%>

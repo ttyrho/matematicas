@@ -1,4 +1,6 @@
 ---
+tags:
+  - catalogo
 aliases:
 ---
 # María José Muñoz Bouzo
