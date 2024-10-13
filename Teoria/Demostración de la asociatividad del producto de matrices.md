@@ -9,7 +9,7 @@ Sean $A \in \mathfrak{m}_{m \times n}(\mathbb{K})$, $B \in \mathfrak{m}_{n \time
 $$(AB)D=A(BD)$$
 
 **Demostración**:
-...
+... $\square$
 
 ## Cuestiones
 

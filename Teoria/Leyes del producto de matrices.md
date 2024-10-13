@@ -15,7 +15,11 @@ Sean $A \in \mathfrak{m}_{m \times n}(\mathbb{K})$, $B$, $C \in \mathfrak{m}_{n 
 
 ## Demostración
 1. [[Demostración de la asociatividad del producto de matrices|Asociatividad del producto de matrices]]
-
+2. [[Demostración de la existencia de elemento neutro por la derecha en el producto de matrices|Existencia de elemento neutro por la derecha]]
+3. [[Demostración de la existencia de elemento neutro por la izquierda en el producto de matrices|Existencia de elemento neutro por la izquierda]]
+4. [[Demostración de la asociatividad respecto del producto por escalares en el producto de matrices|Asociatividad respecto del producto por escalares]]
+5. [[Demostración de la distributividad respecto de la suma de matrices por la derecha en el producto de matrices|Distributividad respecto de la suma de matrices por la derecha]]
+6. [[Demostración de la distributividad respecto de la suma de matrices por la izquierda en el producto de matrices|Distributividad respecto de la suma de matrices por la izquierda]]
 ## Cuestiones
 
 ## Referencias
