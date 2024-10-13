@@ -9,10 +9,10 @@ aliases:
 
 >[!info]+ Ficha
 >- **Tipo**:: [[Monografía]]
->- **Temas**::
->- **Autores**::
->- **Fecha**::
->- **Idioma**::
+>- **Temas**:: [[Álgebra lineal]]
+>- **Autores**:: [[Sheldon Axler]]
+>- **Fecha**:: [[2015]]
+>- **Idioma**:: [[Inglés]]
 
 ## Ejercicios
 ```dataview
