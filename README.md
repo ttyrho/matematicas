@@ -1,4 +1,5 @@
 # Matemáticas
 Este repositorio contiene el conocimiento que voy acumulando durante mi aprendizaje de las matemáticas.
 
-This work is distributed under the terms of the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+---
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
