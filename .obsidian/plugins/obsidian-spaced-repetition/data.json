@@ -29,7 +29,7 @@
       "#review"
     ],
     "noteFoldersToIgnore": [
-      "**/*.excalidraw.md"
+      "Plantillas"
     ],
     "openRandomNote": false,
     "autoNextNote": false,
