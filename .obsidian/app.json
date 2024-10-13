@@ -6,6 +6,7 @@
   "promptDelete": false,
   "userIgnoreFilters": [
     "Plantillas/",
-    "README"
+    "README",
+    "LICENSE"
   ]
 }
