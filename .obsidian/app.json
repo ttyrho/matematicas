@@ -5,6 +5,7 @@
   "showInlineTitle": false,
   "promptDelete": false,
   "userIgnoreFilters": [
-    "Plantillas/"
+    "Plantillas/",
+    "README"
   ]
 }
