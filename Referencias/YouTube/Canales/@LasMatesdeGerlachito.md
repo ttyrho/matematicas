@@ -1,4 +1,6 @@
 ---
+tags:
+  - referencia
 aliases:
   - Las Mates de Gerlachito
 ---

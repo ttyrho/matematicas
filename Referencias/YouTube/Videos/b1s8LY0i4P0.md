@@ -1,4 +1,6 @@
 ---
+tags:
+  - referencia
 aliases:
   - Nociones de Lógica
 ---

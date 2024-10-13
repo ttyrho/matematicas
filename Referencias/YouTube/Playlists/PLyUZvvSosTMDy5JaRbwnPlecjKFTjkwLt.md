@@ -1,4 +1,6 @@
 ---
+tags:
+  - referencia
 aliases:
   - Lenguaje Matemático. Conjuntos y Números
 ---

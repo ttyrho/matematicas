@@ -1,4 +1,6 @@
 ---
+tags:
+  - referencia
 aliases:
 ---
 # [Título](https://www.youtube.com/watch?v=<%tp.file.title%>)

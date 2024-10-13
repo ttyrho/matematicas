@@ -1,8 +1,8 @@
 ---
-aliases:
-  - Lenguaje Matemático, Conjuntos y Números
 tags:
   - referencia
+aliases:
+  - Lenguaje Matemático, Conjuntos y Números
 ---
 # [Lenguaje Matemático, Conjuntos y Números](https://www.sanzytorres.es/libros/lenguaje-matematico-conjuntos-y-numeros/9788415550921/)
 
