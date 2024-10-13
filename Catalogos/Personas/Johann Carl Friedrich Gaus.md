@@ -3,8 +3,9 @@ tags:
   - catalogo
 aliases:
   - Gauss
+  - Johann Carl Friedrich Gaus
 ---
-# Johann Carl Friedrich Gaus
+# [[Carl_Friedrich_Gauss|Johann Carl Friedrich Gaus]]
 
 ## Referencias
 ```dataview

@@ -2,9 +2,9 @@
 tags:
   - referencia
 aliases:
-  - Wilhelm Jordan
+  - Carl Friedrich Gauss
 ---
-# [Wilhelm Jordan](https://es.wikipedia.org/wiki/Wilhelm_Jordan)
+# [Carl Friedrich Gauss](https://es.wikipedia.org/wiki/Carl_Friedrich_Gauss)
 
 >[!info]+ Ficha
 >- **Tipo**:: [[Wikipedia]]

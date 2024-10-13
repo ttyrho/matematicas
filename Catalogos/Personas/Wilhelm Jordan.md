@@ -3,8 +3,9 @@ tags:
   - catalogo
 aliases:
   - Jordan
+  - Wilhelm Jordan
 ---
-# Wilhelm Jordan
+# [[Wilhelm_Jordan|Wilhelm Jordan]]
 
 ## Referencias
 ```dataview
