@@ -2,6 +2,7 @@
 tags:
   - referencia
 aliases:
+  - Introduction to linear algebra
   - Introduction to linear algebra (5th ed)
 ---
 # [Introduction to linear algebra (5th ed)](https://math.mit.edu/~gs/linearalgebra/ila5/indexila5.html)
