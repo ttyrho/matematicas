@@ -1,3 +1,10 @@
+---
+tags:
+  - teoria
+aliases:
+---
+# Ley lógica
+
     
 - Ley de la doble negación: $\neg \neg p \Longleftrightarrow p$
 - Leyes de simplificación
@@ -39,3 +46,5 @@
     - ...
 - Ley de simplificación condicional: $p \land q \Longleftrightarrow p$
 
+## Referencias
+- [[delgado2020lenguaje2e|Lenguaje Matemático, Conjuntos y Números (2ª Ed.)]]
