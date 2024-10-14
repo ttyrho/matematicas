@@ -8,7 +8,7 @@ aliases:
 # [Lenguaje Matemático, Conjuntos y Números (2a ed)](https://www.sanzytorres.es/libros/lenguaje-matematico-conjuntos-y-numeros/9788415550921/)
 
 >[!info]+ Ficha
->- **Tipo**:: [[Monografía]]
+>- **Tipo**:: Monografía
 >- **Temas**::
 >- **Autores**:: [[Miguel Delgado Pineda]], [[María José Muñoz Bouzo]]
 >- **Fecha**:: [[2020-07|Julio de 2020]]

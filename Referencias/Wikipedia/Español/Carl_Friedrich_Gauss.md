@@ -7,6 +7,6 @@ aliases:
 # [Carl Friedrich Gauss](https://es.wikipedia.org/wiki/Carl_Friedrich_Gauss)
 
 >[!info]+ Ficha
->- **Tipo**:: [[Wikipedia]]
+>- **Tipo**:: Wikipedia
 >- **Temas**::
 >- **Idioma**:: [[Español]]

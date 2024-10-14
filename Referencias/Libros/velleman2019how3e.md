@@ -8,7 +8,7 @@ aliases:
 # [How to Prove It: A Structured Approach (3rd ed)](https://www.cambridge.org/highereducation/books/how-to-prove-it/6D2965D625C6836CD4A785A2C843B3DA)
 
 >[!info]+ Ficha
->- **Tipo**:: [[Monografía]]
+>- **Tipo**:: Monografía
 >- **Temas**::
 >- **Autores**:: [[Daniel J. Velleman]]
 >- **Fecha**:: [[2019]]

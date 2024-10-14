@@ -8,7 +8,7 @@ aliases:
 # Linear Algebra Done Right (3rd ed)
 
 >[!info]+ Ficha
->- **Tipo**:: [[Monografía]]
+>- **Tipo**:: Monografía
 >- **Temas**:: [[Álgebra Lineal]]
 >- **Autores**:: [[Sheldon Axler]]
 >- **Fecha**:: [[2015]]

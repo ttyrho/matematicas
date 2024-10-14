@@ -7,7 +7,7 @@ aliases:
 # [Lección 1 - Nociones de Lógica | Lenguaje Matemático. Conjuntos y Números | UNED](https://www.youtube.com/watch?v=b1s8LY0i4P0)
 
 >[!info]+ Ficha
->- **Tipo**:: [[Vídeo YouTube]]
+>- **Tipo**:: YouTube
 >- **Temas**::
 >- **Idioma**:: [[Español]]
 >- **Autores**::

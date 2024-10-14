@@ -7,6 +7,6 @@ aliases:
 # [Wilhelm Jordan](https://es.wikipedia.org/wiki/Wilhelm_Jordan)
 
 >[!info]+ Ficha
->- **Tipo**:: [[Wikipedia]]
+>- **Tipo**:: Wikipedia
 >- **Temas**::
 >- **Idioma**:: [[Español]]
