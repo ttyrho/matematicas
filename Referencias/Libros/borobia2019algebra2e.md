@@ -5,7 +5,7 @@ aliases:
   - Álgebra Lineal y Geometría Vectorial (2a ed)
   - Álgebra Lineal y Geometría Vectorial
 ---
-# [Álgebra Lineal y Geometría Vectorial (2ª Ed.)](https://www.sanzytorres.es/libros/algebra-lineal-y-geometria-vectorial/9788417765040/)
+# [Álgebra Lineal y Geometría Vectorial (2a ed)](https://www.sanzytorres.es/libros/algebra-lineal-y-geometria-vectorial/9788417765040/)
 
 >[!info]+ Ficha
 >- **Tipo**:: [[Monografía]]

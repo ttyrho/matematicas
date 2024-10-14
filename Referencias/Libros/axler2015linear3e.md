@@ -5,7 +5,7 @@ aliases:
   - Linear Algebra Done Right (3rd ed)
   - Linear Algebra Done Right
 ---
-# [Linear Algebra Done Right]()
+# Linear Algebra Done Right (3rd ed)
 
 >[!info]+ Ficha
 >- **Tipo**:: [[Monografía]]
