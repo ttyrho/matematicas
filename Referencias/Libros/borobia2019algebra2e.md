@@ -29,7 +29,7 @@ SORT
 TABLE WITHOUT ID
     file.link AS Tarjeta,
     Ejercicio
-FROM #ejercicio
+FROM "Literatura" and #ejercicio
 WHERE contains(Referencia, [[borobia2019algebra2e]])
 SORT
     Ejercicio ASCENDING

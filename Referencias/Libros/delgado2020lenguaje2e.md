@@ -29,7 +29,7 @@ SORT
 TABLE WITHOUT ID
     file.link AS Tarjeta,
     Ejercicio
-FROM "Ejercicios"
+FROM "Literatura" and #ejercicio
 WHERE contains(Referencia, [[delgado2020lenguaje2e]])
 SORT
     Ejercicio ASCENDING

@@ -29,7 +29,7 @@ SORT
 TABLE WITHOUT ID
     file.link AS Tarjeta,
     Ejercicio
-FROM "Ejercicios"
+FROM "Literatura" and #ejercicio
 WHERE contains(Referencia, [[axler2015linear3e]])
 SORT
     Ejercicio ASCENDING

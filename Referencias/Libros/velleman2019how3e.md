@@ -25,11 +25,11 @@ SORT
 ```
 
 ## Ejercicios
-```dataview
+ ```dataview
 TABLE WITHOUT ID
     file.link AS Tarjeta,
     Ejercicio
-FROM "Ejercicios"
+FROM "Literatura" and #ejercicio
 WHERE contains(Referencia, [[velleman2019how3e]])
 SORT
     Ejercicio ASCENDING
