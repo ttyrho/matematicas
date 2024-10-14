@@ -1,6 +1,6 @@
 ---
 tags:
-  - referencia
+  - wikipedia/español
 aliases:
   - Wilhelm Jordan
 ---

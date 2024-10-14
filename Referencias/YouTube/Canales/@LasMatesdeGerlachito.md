@@ -1,6 +1,6 @@
 ---
 tags:
-  - referencia
+  - youtube/canal
 aliases:
   - Las Mates de Gerlachito
 ---

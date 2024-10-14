@@ -1,6 +1,6 @@
 ---
 tags:
-  - referencia
+  - youtube/playlist
 aliases:
   - MIT 18.06SC Linear Algebra, Fall 2011
 ---
@@ -8,7 +8,7 @@ aliases:
 
 >[!info]+ Ficha
 >- **Tipo**:: [[Playlist YouTube]]
->- **Temas**:: [[Álgebra lineal]]
+>- **Temas**:: [[Álgebra Lineal]]
 >- **Canal**:: [[@mitocw|MIT OpenCourseWare]]
 
 ## Vídeos

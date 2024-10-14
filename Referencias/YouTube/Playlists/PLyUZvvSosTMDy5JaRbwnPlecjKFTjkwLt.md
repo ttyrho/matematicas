@@ -1,6 +1,6 @@
 ---
 tags:
-  - referencia
+  - youtube/playlist
 aliases:
   - Lenguaje Matemático. Conjuntos y Números - Grado en Matemáticas UNED | Curso 202/2021
 ---

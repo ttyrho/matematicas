@@ -1,15 +1,15 @@
 ---
 tags:
-  - referencia
+  - libro/monografia
 aliases:
-  - Álgebra Lineal y Geometría Vectorial
   - Álgebra Lineal y Geometría Vectorial (2a ed)
+  - Álgebra Lineal y Geometría Vectorial
 ---
 # [Álgebra Lineal y Geometría Vectorial (2ª Ed.)](https://www.sanzytorres.es/libros/algebra-lineal-y-geometria-vectorial/9788417765040/)
 
 >[!info]+ Ficha
 >- **Tipo**:: [[Monografía]]
->- **Temas**:: [[Álgebra lineal]]
+>- **Temas**:: [[Álgebra Lineal]]
 >- **Autores**:: [[Alberto Borobia Vizmanos]], [[Beatriz Estrada López]]
 >- **Fecha**:: [[2019]]
 >- **Idioma**:: [[Español]]

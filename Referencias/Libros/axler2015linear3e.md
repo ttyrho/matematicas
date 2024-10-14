@@ -1,15 +1,15 @@
 ---
 tags:
-  - referencia
+  - libro/monografia
 aliases:
-  - Linear Algebra Done Right
   - Linear Algebra Done Right (3rd ed)
+  - Linear Algebra Done Right
 ---
 # [Linear Algebra Done Right]()
 
 >[!info]+ Ficha
 >- **Tipo**:: [[Monografía]]
->- **Temas**:: [[Álgebra lineal]]
+>- **Temas**:: [[Álgebra Lineal]]
 >- **Autores**:: [[Sheldon Axler]]
 >- **Fecha**:: [[2015]]
 >- **Idioma**:: [[Inglés]]

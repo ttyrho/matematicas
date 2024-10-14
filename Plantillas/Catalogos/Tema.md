@@ -1,6 +1,6 @@
 ---
 tags:
-  - catalogo
+  - tema
 aliases:
 ---
 # <%tp.file.title%>

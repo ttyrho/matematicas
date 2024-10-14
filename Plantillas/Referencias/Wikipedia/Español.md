@@ -1,6 +1,6 @@
 ---
 tags:
-  - referencia
+  - wikipedia/español
 aliases:
 ---
 # [Título](https://es.wikipedia.org/wiki/<%tp.file.title%>)

@@ -8,5 +8,6 @@
     "Plantillas/",
     "README",
     "LICENSE"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }

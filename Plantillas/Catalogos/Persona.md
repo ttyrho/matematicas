@@ -1,6 +1,6 @@
 ---
 tags:
-  - catalogo
+  - persona
 aliases:
 ---
 # <%tp.file.title%>

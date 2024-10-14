@@ -1,6 +1,6 @@
 ---
 tags:
-  - referencia
+  - libro/monografia
 aliases:
 ---
 # [Título]()

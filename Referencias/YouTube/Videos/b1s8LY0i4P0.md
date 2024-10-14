@@ -1,6 +1,6 @@
 ---
 tags:
-  - referencia
+  - youtube/video
 aliases:
   - Nociones de Lógica
 ---

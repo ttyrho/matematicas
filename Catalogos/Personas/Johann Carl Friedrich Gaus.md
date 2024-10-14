@@ -1,6 +1,6 @@
 ---
 tags:
-  - catalogo
+  - persona
 aliases:
   - Gauss
   - Johann Carl Friedrich Gaus

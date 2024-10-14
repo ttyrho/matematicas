@@ -1,6 +1,6 @@
 ---
 tags:
-  - referencia
+  - youtube/canal
 aliases:
 ---
 # [Título](https://www.youtube.com/<%tp.file.title%>)
