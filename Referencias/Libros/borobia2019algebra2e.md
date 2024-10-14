@@ -14,13 +14,23 @@ aliases:
 >- **Fecha**:: [[2019]]
 >- **Idioma**:: [[Español]]
 
+## Contenido
+```dataview
+TABLE WITHOUT ID
+    link(file.path, Localización) AS Elemento
+FROM "Literatura" and -#ejercicio
+WHERE contains(Referencia, [[borobia2019algebra2e]])
+SORT
+    Localización ASCENDING
+```
+
 ## Ejercicios
 ```dataview
 TABLE WITHOUT ID
     file.link AS Tarjeta,
     Ejercicio
-FROM "Ejercicios"
-WHERE contains(Referencia, [[borobiav2019algebra]])
+FROM #ejercicio
+WHERE contains(Referencia, [[borobia2019algebra2e]])
 SORT
     Ejercicio ASCENDING
 ```
