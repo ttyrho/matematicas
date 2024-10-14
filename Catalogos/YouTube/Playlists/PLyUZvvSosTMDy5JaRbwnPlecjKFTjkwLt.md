@@ -2,6 +2,7 @@
 tags:
   - youtube/playlist
 aliases:
+  - Lenguaje Matemático. Conjuntos y Números - UNED
   - Lenguaje Matemático. Conjuntos y Números - Grado en Matemáticas UNED | Curso 202/2021
 ---
 # [Lenguaje Matemático. Conjuntos y Números - Grado en Matemáticas UNED | Curso 202/2021](https://www.youtube.com/playlist?list=PLyUZvvSosTMDy5JaRbwnPlecjKFTjkwLt)
