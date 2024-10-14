@@ -3,6 +3,7 @@ tags:
   - youtube/playlist
 aliases:
   - Lenguaje Matemático. Conjuntos y Números - Grado en Matemáticas UNED | Curso 202/2021
+Canal:
 ---
 # [Lenguaje Matemático. Conjuntos y Números - Grado en Matemáticas UNED | Curso 202/2021](https://www.youtube.com/playlist?list=PLyUZvvSosTMDy5JaRbwnPlecjKFTjkwLt)
 **Canal**:: [[@LasMatesdeGerlachito|Las Mates de Gerlachito]]
