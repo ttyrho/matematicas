@@ -20,8 +20,7 @@ TABLE WITHOUT ID
     link(file.path, Localización) AS Elemento
 FROM "Literatura" and -#ejercicio
 WHERE contains(Referencia, [[borobia2019algebra2e]])
-SORT
-    Localización ASCENDING
+SORT Orden ASCENDING
 ```
 
 ## Ejercicios

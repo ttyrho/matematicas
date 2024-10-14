@@ -12,6 +12,15 @@ aliases:
 >- **Autores**::
 >- **Fecha**::
 
+## Contenido
+```dataview
+TABLE WITHOUT ID
+    link(file.path, Localización) AS Elemento
+FROM "Literatura" and -#ejercicio
+WHERE contains(Referencia, [[<%tp.file.title%>]])
+SORT Orden ASCENDING
+```
+
 ## Ejercicios
 ```dataview
 TABLE WITHOUT ID
