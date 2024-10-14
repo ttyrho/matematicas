@@ -6,11 +6,11 @@ aliases:
 # [Título]()
 
 >[!info]+ Ficha
->- **Tipo**:: [[Monografía]]
+>- **Tipo**:: Monografía
 >- **Temas**::
+>- **Idioma**::
 >- **Autores**::
 >- **Fecha**::
->- **Idioma**::
 
 ## Ejercicios
 ```dataview

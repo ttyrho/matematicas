@@ -6,7 +6,7 @@ aliases:
 # [Título](https://www.youtube.com/watch?v=<%tp.file.title%>)
 
 >[!info]+ Ficha
->- **Tipo**:: [[Vídeo YouTube]]
+>- **Tipo**:: YouTube
 >- **Temas**::
 >- **Idioma**::
 >- **Autores**::

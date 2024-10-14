@@ -4,11 +4,7 @@ tags:
 aliases:
 ---
 # [Título](https://www.youtube.com/playlist?list=<%tp.file.title%>)
-
->[!info]+ Ficha
->- **Tipo**:: [[Playlist YouTube]]
->- **Temas**::
->- **Canal**::
+**Canal**::
 
 ## Vídeos
 ```dataview

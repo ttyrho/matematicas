@@ -6,16 +6,12 @@ aliases:
 ---
 # [Las Mates de Gerlachito](https://www.youtube.com/@LasMatesdeGerlachito)
 
->[!info]+ Ficha
->- **Tipo**:: [[Canal YouTube]]
->- **Temas**::
-
 ## Playlists
 ```dataview
 TABLE WITHOUT ID
     link(file.path, aliases[0]) AS Título,
     Temas
-FROM "Referencias/YouTube/Playlists"
+FROM "Catalogos/YouTube/Playlists"
 WHERE Canal = [[@LasMatesdeGerlachito]]
 ```
 

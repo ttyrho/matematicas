@@ -5,11 +5,7 @@ aliases:
   - MIT 18.06SC Linear Algebra, Fall 2011
 ---
 # [MIT 18.06SC Linear Algebra, Fall 2011](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
-
->[!info]+ Ficha
->- **Tipo**:: [[Playlist YouTube]]
->- **Temas**:: [[Álgebra Lineal]]
->- **Canal**:: [[@mitocw|MIT OpenCourseWare]]
+**Canal**:: [[@mitocw|MIT OpenCourseWare]]
 
 ## Vídeos
 ```dataview
