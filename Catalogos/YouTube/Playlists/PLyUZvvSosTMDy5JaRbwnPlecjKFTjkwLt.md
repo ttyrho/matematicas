@@ -16,6 +16,6 @@ TABLE WITHOUT ID
     Temas,
     Fecha    
 FROM "Referencias/YouTube/Videos"
-WHERE Playlist = [[PLyUZvvSosTMDy5JaRbwnPlecjKFTjkwLt]]
+WHERE contains(Playlist, [[PLyUZvvSosTMDy5JaRbwnPlecjKFTjkwLt]])
 SORT Orden ASCENDING
 ```
