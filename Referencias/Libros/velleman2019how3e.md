@@ -14,6 +14,16 @@ aliases:
 >- **Fecha**:: [[2019]]
 >- **Idioma**:: [[Inglés]]
 
+## Contenido
+```dataview
+TABLE WITHOUT ID
+    link(file.path, Localización) AS Elemento
+FROM "Literatura" and -#ejercicio
+WHERE contains(Referencia, [[velleman2019how3e]])
+SORT
+    Localización ASCENDING
+```
+
 ## Ejercicios
 ```dataview
 TABLE WITHOUT ID

@@ -14,6 +14,16 @@ aliases:
 >- **Fecha**:: [[2015]]
 >- **Idioma**:: [[Inglés]]
 
+## Contenido
+```dataview
+TABLE WITHOUT ID
+    link(file.path, Localización) AS Elemento
+FROM "Literatura" and -#ejercicio
+WHERE contains(Referencia, [[axler2015linear3e]])
+SORT
+    Localización ASCENDING
+```
+
 ## Ejercicios
 ```dataview
 TABLE WITHOUT ID
