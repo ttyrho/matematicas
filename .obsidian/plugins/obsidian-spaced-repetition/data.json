@@ -5,7 +5,11 @@
     "flashcardHardText": "Hard",
     "reviewButtonDelay": 0,
     "flashcardTags": [
-      "#flashcard"
+      "#corolario",
+      "#definicion",
+      "#ejercicio",
+      "#proposición",
+      "#teorema"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
