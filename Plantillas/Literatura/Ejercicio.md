@@ -1,6 +1,7 @@
 ---
 tags:
   - ejercicio
+  - flashcard
 aliases:
 ---
 Planteamiento

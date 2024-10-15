@@ -1,6 +1,7 @@
 ---
 tags:
   - teorema
+  - flashcard
 aliases:
 ---
 ...
