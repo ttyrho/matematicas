@@ -26,10 +26,9 @@ SORT Orden ASCENDING
 ## Ejercicios
 ```dataview
 TABLE WITHOUT ID
-    link(file.pathn Localización) AS Ejercicio,
-    Ejercicio
+    link(file.path, Localización) AS Ejercicio
 FROM "Literatura" and #ejercicio
 WHERE contains(Referencia, [[delgado2020lenguaje2e]])
 SORT
-    Ejercicio ASCENDING
+    Orden ASCENDING
 ```
