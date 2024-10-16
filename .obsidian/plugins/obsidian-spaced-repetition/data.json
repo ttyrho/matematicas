@@ -11,7 +11,7 @@
       "#proposicion",
       "#teorema"
     ],
-    "convertFoldersToDecks": false,
+    "convertFoldersToDecks": true,
     "burySiblingCards": false,
     "showContextInCards": true,
     "flashcardHeightPercentage": 80,
