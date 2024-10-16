@@ -1,7 +1,6 @@
 ---
 tags:
-  - proposicion
-  - flashcard
+  - concepto/proposicion
 aliases:
 ---
 ...

@@ -1,7 +1,6 @@
 ---
 tags:
-  - defincion
-  - flashcard
+  - concepto/defincion
 aliases:
 ---
 ...

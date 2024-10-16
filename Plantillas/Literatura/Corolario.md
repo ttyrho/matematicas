@@ -1,7 +1,6 @@
 ---
 tags:
-  - corolario
-  - flashcard
+  - concepto/corolario
 aliases:
 ---
 ...

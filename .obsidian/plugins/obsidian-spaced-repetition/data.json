@@ -5,13 +5,11 @@
     "flashcardHardText": "Hard",
     "reviewButtonDelay": 0,
     "flashcardTags": [
-      "#corolario",
-      "#definicion",
+      "#concepto",
       "#ejercicio",
-      "#proposicion",
-      "#teorema"
+      ""
     ],
-    "convertFoldersToDecks": true,
+    "convertFoldersToDecks": false,
     "burySiblingCards": false,
     "showContextInCards": true,
     "flashcardHeightPercentage": 80,
