@@ -9,5 +9,6 @@
     "README",
     "LICENSE"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showRibbon": true
 }
