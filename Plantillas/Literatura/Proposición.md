@@ -1,6 +1,6 @@
 ---
 tags:
-  - concepto/proposicion
+  - proposicion
 aliases:
 ---
 ...

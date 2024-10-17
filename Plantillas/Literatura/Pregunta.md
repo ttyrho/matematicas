@@ -1,6 +1,6 @@
 ---
 tags:
-  - concepto/pregunta
+  - pregunta
 aliases:
 ---
 ...

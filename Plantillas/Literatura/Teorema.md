@@ -1,6 +1,6 @@
 ---
 tags:
-  - concepto/teorema
+  - teorema
 aliases:
 ---
 ...
