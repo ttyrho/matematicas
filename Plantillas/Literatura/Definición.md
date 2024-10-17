@@ -1,6 +1,6 @@
 ---
 tags:
-  - concepto/defincion
+  - definicion
 aliases:
 ---
 ...
