@@ -1,13 +1,9 @@
 ---
 tags:
-  - concepto/corolario
+  - concepto/pregunta
 aliases:
 ---
 ...
-
-## Demostración
-
-## Ejemplos
 
 ## Metadatos
 - **Referencia**::

@@ -16,8 +16,8 @@ aliases:
 
 ## Contenido
 ```dataview
-TABLE WITHOUT ID
-    link(file.path, Localización) AS Elemento
+LIST WITHOUT ID
+    link(file.path, Título)
 FROM "Literatura" and -#ejercicio
 WHERE contains(Referencia, [[borobia2019algebra2e]])
 SORT Orden ASCENDING
@@ -26,7 +26,7 @@ SORT Orden ASCENDING
 ## Ejercicios
 ```dataview
 LIST WITHOUT ID
-    link(file.path, Ejercicio)
+    link(file.path, Título)
 FROM "Literatura" and #ejercicio
 WHERE contains(Referencia, [[borobia2019algebra2e]])
 SORT Orden ASCENDING

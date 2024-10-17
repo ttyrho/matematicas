@@ -9,5 +9,5 @@ Solución
 
 ## Metadatos
 - **Referencia**::
-- **Localización**::
+- **Título**::
 - **Orden**::
