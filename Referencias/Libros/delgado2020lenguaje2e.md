@@ -27,7 +27,7 @@ SORT Orden ASCENDING
 ```dataview
 TABLE WITHOUT ID
     link(file.path, Título) AS Título,
-    Página
+    pagina
 FROM
     "Literatura" and #ejercicio
 WHERE
