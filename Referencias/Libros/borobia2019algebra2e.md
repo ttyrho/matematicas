@@ -36,8 +36,8 @@ TABLE WITHOUT ID
 FROM
     "Literatura" and #ejercicio
 WHERE
-    contains(Referencia, [[borobia2019algebra2e]])
+    contains(referencia, [[borobia2019algebra2e]])
 SORT
-    Página ASCENDING,
-    Orden ASCENDING
+    pagina ASCENDING,
+    orden ASCENDING
 ```
