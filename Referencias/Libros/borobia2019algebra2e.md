@@ -24,15 +24,15 @@ FROM
 WHERE
     contains(Referencia, [[borobia2019algebra2e]])
 SORT
-    Página ASCENDI
+    Página ASCENDING,
     Orden ASCENDING
 ```
 
 ## Ejercicios
 ```dataview
 TABLE WITHOUT ID
-    link(file.path, Título) AS Título,
-    Página
+    link(file.path, aliases[0]) AS Título,
+    pagina AS Página
 FROM
     "Literatura" and #ejercicio
 WHERE
