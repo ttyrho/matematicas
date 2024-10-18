@@ -13,7 +13,7 @@ TABLE WITHOUT ID
     link(file.path, aliases[0]) AS Título,
     Temas,
     Fecha    
-FROM "Referencias/YouTube/Videos"
+FROM "Referencias/YouTube"
 WHERE Playlist = [[PL221E2BBF13BECF6C]]
 SORT orden ASCENDING
 ```

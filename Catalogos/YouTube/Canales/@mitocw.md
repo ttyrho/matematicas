@@ -21,7 +21,7 @@ TABLE WITHOUT ID
     link(file.path, aliases[0]) AS Título,
     Temas,
     Fecha    
-FROM "Referencias/YouTube/Videos"
+FROM "Referencias/YouTube"
 WHERE Canal = [[@mitocw]]
 SORT orden ASCENDING
 ```
