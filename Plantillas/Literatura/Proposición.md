@@ -11,9 +11,3 @@ orden:
 ## Demostración
 
 ## Ejemplos
-
-## Metadatos
-- **Referencia**::
-- **Título**::
-- **Página**::
-- **Orden**::

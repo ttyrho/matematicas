@@ -7,9 +7,3 @@ pagina:
 orden:
 ---
 ...
-
-## Metadatos
-- **Referencia**::
-- **Título**::
-- **Página**::
-- **Orden**::

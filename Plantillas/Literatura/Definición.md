@@ -10,8 +10,4 @@ orden:
 
 ## Ejemplos
 
-## Metadatos
-- **Referencia**::
-- **Título**::
-- **Página**::
-- **Orden**::
+## Cuestiones
