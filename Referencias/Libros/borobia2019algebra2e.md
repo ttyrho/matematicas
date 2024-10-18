@@ -16,11 +16,16 @@ aliases:
 
 ## Contenido
 ```dataview
-LIST WITHOUT ID
-    link(file.path, Título)
-FROM "Literatura" and -#ejercicio
-WHERE contains(Referencia, [[borobia2019algebra2e]])
-SORT Orden ASCENDING
+TABLE WITHOUT ID
+    link(file.path, Título) as Título,
+    Página
+FROM
+    "Literatura" and -#ejercicio
+WHERE
+    contains(Referencia, [[borobia2019algebra2e]])
+SORT
+    Página ASCENDI
+    Orden ASCENDING
 ```
 
 ## Ejercicios
