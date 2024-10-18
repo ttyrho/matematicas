@@ -1,7 +1,10 @@
 ---
 tags:
   - teorema
-aliases:
+aliases: 
+referencia: 
+pagina: 
+orden:
 ---
 ...
 

@@ -1,7 +1,10 @@
 ---
 tags:
   - corolario
-aliases:
+aliases: 
+referencia: 
+pagina: 
+orden:
 ---
 ...
 

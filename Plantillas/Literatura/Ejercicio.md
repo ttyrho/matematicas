@@ -1,7 +1,10 @@
 ---
 tags:
   - ejercicio
-aliases:
+aliases: 
+referencia: 
+pagina: 
+orden:
 ---
 Planteamiento
 :multiline-flashcard:

@@ -1,7 +1,10 @@
 ---
 tags:
   - definicion
-aliases:
+aliases: 
+referencia: 
+pagina: 
+orden:
 ---
 ...
 

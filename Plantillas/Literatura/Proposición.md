@@ -1,7 +1,10 @@
 ---
 tags:
   - proposicion
-aliases:
+aliases: 
+referencia: 
+pagina: 
+orden:
 ---
 ...
 

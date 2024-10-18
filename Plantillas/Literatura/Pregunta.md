@@ -1,7 +1,10 @@
 ---
 tags:
   - pregunta
-aliases:
+aliases: 
+referencia: 
+pagina: 
+orden:
 ---
 ...
 
