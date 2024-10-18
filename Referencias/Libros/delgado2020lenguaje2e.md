@@ -26,13 +26,13 @@ SORT Orden ASCENDING
 ## Ejercicios
 ```dataview
 TABLE WITHOUT ID
-    link(file.path, Título) AS Título,
+    link(file.path, aliases[0]) AS Título,
     pagina
 FROM
     "Literatura" and #ejercicio
 WHERE
-    contains(Referencia, [[delgado2020lenguaje2e]])
+    contains(eeferencia, [[delgado2020lenguaje2e]])
 SORT
-    Página ASCENDING,
-    Orden ASCENDING
+    pagina ASCENDING,
+    orden ASCENDING
 ```
