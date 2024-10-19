@@ -11,7 +11,7 @@ aliases:
 >- **Temas**:: [[Álgebra Lineal]]
 >- **Idioma**:: Español
 >- **Autores**::
->- **Fecha**:: [[2024-10-04|4 de octubre de 2024]]
+>- **Fecha**:: [[2024-10-03|3 de octubre de 2024]]
 >- **Canal**:: [[@LasMatesdeGerlachito|Las Mates de Gerlachito]]
 >- **Playlist**:: [[PLyUZvvSosTMByfLvzuy8zPTmUV3EvmDMv|Álgebra Lineal I - Grado en Matemáticas UNED]]
 >- **Orden**:: 24
