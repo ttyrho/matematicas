@@ -1,14 +1,13 @@
 ---
 tags:
-  - proposicion
+  - definicion
+  - teoria
 aliases: 
 referencia: 
 pagina: 
 orden:
 ---
 ...
-
-## Demostración
 
 ## Ejemplos
 

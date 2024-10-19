@@ -5,9 +5,8 @@
     "flashcardHardText": "Hard",
     "reviewButtonDelay": 0,
     "flashcardTags": [
-      "#concepto",
       "#ejercicio",
-      ""
+      "#teoria"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,

@@ -1,6 +1,7 @@
 ---
 tags:
-  - teorema
+  - corolario
+  - teoria
 aliases: 
 referencia: 
 pagina: 
