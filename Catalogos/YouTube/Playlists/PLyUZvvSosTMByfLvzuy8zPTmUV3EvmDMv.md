@@ -2,7 +2,6 @@
 tags:
   - youtube/playlist
 aliases:
-  - Álgebra Lineal I - UNED
   - Álgebra Lineal I - Grado en Matemáticas UNED
 ---
 # [Álgebra Lineal I - Grado en Matemáticas UNED](https://www.youtube.com/playlist?list=PLyUZvvSosTMByfLvzuy8zPTmUV3EvmDMv)

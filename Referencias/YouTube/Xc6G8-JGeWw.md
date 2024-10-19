@@ -2,7 +2,6 @@
 tags:
   - youtube/video
 aliases:
-  - Operaciones con matrices
   - Lección 2 - Operaciones con matrices | Álgebra Lineal I | UNED
 ---
 # [Lección 2 - Operaciones con matrices | Álgebra Lineal I | UNED](https://www.youtube.com/watch?v=Xc6G8-JGeWw)

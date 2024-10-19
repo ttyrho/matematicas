@@ -2,7 +2,6 @@
 tags:
   - youtube/video
 aliases:
-  - Matrices
   - Lección 1 - Matrices | Álgebra Lineal I | UNED
 ---
 # [Lección 1 - Matrices | Álgebra Lineal I | UNED](https://www.youtube.com/watch?v=yRTNW1D2ESQ)
