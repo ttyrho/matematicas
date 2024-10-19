@@ -1,8 +1,7 @@
 ---
 tags:
   - youtube/video
-aliases:
-  - Nociones de Lógica
+aliases: []
 ---
 # [Lección 1 - Nociones de Lógica | Lenguaje Matemático. Conjuntos y Números | UNED](https://www.youtube.com/watch?v=b1s8LY0i4P0)
 
