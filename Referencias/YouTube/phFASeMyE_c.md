@@ -9,9 +9,9 @@ aliases:
 >[!info]+ Ficha
 >- **Tipo**:: YouTube
 >- **Temas**:: [[Álgebra Lineal]]
->- **Idioma**::
+>- **Idioma**:: Español
 >- **Autores**::
->- **Fecha**:: Oct 15 de octiu, 2024
+>- **Fecha**:: [[2024-10-15|15 de octubre de 2024]]
 >- **Canal**:: [[@LasMatesdeGerlachito|Las Mates de Gerlachito]]
 >- **Playlist**:: [[PLyUZvvSosTMByfLvzuy8zPTmUV3EvmDMv|Álgebra Lineal I - Grado en Matemáticas UNED]]
 >- **Orden**:: 25
