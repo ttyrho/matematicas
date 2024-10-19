@@ -5,6 +5,19 @@ aliases:
   - Álgebra Lineal y Geometría Vectorial (2a ed)
   - Álgebra Lineal y Geometría Vectorial
 ---
+---
+tags:
+  - definicion
+aliases: 
+referencia: 
+pagina: 
+orden:
+---
+...
+
+## Ejemplos
+
+## Cuestiones
 # [Álgebra Lineal y Geometría Vectorial (2a ed)](https://www.sanzytorres.es/libros/algebra-lineal-y-geometria-vectorial/9788417765040/)
 
 >[!info]+ Ficha
