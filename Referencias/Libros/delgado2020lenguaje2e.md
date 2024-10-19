@@ -36,7 +36,7 @@ TABLE WITHOUT ID
 FROM
     "Literatura" and #ejercicio
 WHERE
-    contains(eeferencia, [[delgado2020lenguaje2e]])
+    contains(referencia, [[delgado2020lenguaje2e]])
 SORT
     pagina ASCENDING,
     orden ASCENDING
