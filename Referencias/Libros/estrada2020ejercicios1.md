@@ -35,7 +35,7 @@ TABLE WITHOUT ID
 FROM
     "Literatura" and #ejercicio
 WHERE
-    contains(Referencia, [[estrada2020ejercicios1]])
+    contains(referencia, [[estrada2020ejercicios1]])
 SORT
     Página ASCENDING,
     Orden ASCENDING
