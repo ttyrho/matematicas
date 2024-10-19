@@ -15,10 +15,15 @@ aliases:
 ## Contenido
 ```dataview
 TABLE WITHOUT ID
-    link(file.path, Título) AS Título
-FROM "Literatura" and -#ejercicio
-WHERE contains(Referencia, [[<%tp.file.title%>]])
-SORT Orden ASCENDING
+    link(file.path, aliases[0]) AS Título,
+    pagina AS Página
+FROM
+    "Literatura" and -#ejercicio
+WHERE
+    contains(referencia, [[<%tp.file.title%>]])
+SORT
+    pagina ASCENDING,
+    orden ASCENDING
 ```
 
 ## Ejercicios
