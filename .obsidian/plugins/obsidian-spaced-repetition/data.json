@@ -19,11 +19,14 @@
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": false,
+    "clozePatterns": [
+      "==[123;;]answer[;;hint]=="
+    ],
     "singleLineCardSeparator": ":inline-flashcard:",
     "singleLineReversedCardSeparator": ":inline-reversed-flashcard:",
     "multilineCardSeparator": ":multiline-flashcard:",
     "multilineReversedCardSeparator": ":multiline-reversed-flashcard:",
-    "multilineCardEndMarker": "",
+    "multilineCardEndMarker": ":multiline-flashcard-end:",
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
