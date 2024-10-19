@@ -17,15 +17,15 @@ aliases:
 ## Contenido
 ```dataview
 TABLE WITHOUT ID
-    link(file.path, Título) as Título,
-    Página
+    link(file.path, aliases[0]) AS Título,
+    pagina AS Página
 FROM
     "Literatura" and -#ejercicio
 WHERE
-    contains(Referencia, [[borobia2019algebra2e]])
+    contains(referencia, [[borobia2019algebra2e]])
 SORT
-    Página ASCENDING,
-    Orden ASCENDING
+    pagina ASCENDING,
+    orden ASCENDING
 ```
 
 ## Ejercicios
