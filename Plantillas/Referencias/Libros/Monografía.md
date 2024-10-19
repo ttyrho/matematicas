@@ -29,13 +29,13 @@ SORT
 ## Ejercicios
 ```dataview
 TABLE WITHOUT ID
-    link(file.path, Título) AS Título,
-    Página
+    link(file.path, aliases[0]) AS Título,
+    pagina
 FROM
     "Literatura" and #ejercicio
 WHERE
-    contains(Referencia, [[<%tp.file.title%>]])
+    contains(referencia, [[<%tp.file.title%>]])
 SORT
-    Página ASCENDING,
-    Orden ASCENDING
+    pagina ASCENDING,
+    orden ASCENDING
 ```
