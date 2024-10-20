@@ -2,7 +2,20 @@
   "items": [
     {
       "type": "group",
-      "ctime": 1729433954344,
+      "ctime": 1729434084774,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1729433976554,
+          "path": "Referencias/Libros/delgado2020lenguaje2e.md",
+          "title": "Lenguaje Matemático, Conjuntos y Números (2a ed)"
+        }
+      ],
+      "title": "Lenguaje matemático, conjuntos y números"
+    },
+    {
+      "type": "group",
+      "ctime": 1729434073040,
       "items": [
         {
           "type": "file",
@@ -12,30 +25,18 @@
         },
         {
           "type": "file",
-          "ctime": 1729433976554,
-          "path": "Referencias/Libros/delgado2020lenguaje2e.md",
-          "title": "Lenguaje Matemático, Conjuntos y Números (2a ed)"
-        },
-        {
-          "type": "file",
           "ctime": 1729434000460,
           "path": "Referencias/Libros/estrada2020ejercicios1.md",
           "title": "Ejercicios resueltos de álgebra lineal. Volumen I"
         }
       ],
-      "title": "Libros"
-    },
-    {
-      "type": "group",
-      "ctime": 1729434073040,
-      "items": [],
       "title": "Álgebra Lineal I"
     },
     {
       "type": "group",
-      "ctime": 1729434084774,
+      "ctime": 1729434107243,
       "items": [],
-      "title": "Untitled group"
+      "title": "Álgebra Lineal II"
     }
   ]
 }
