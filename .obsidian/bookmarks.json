@@ -25,6 +25,12 @@
       "ctime": 1729434073040,
       "items": [
         {
+          "type": "file",
+          "ctime": 1729445357370,
+          "path": "Literatura/1729445327700.md",
+          "title": "Ejercicios"
+        },
+        {
           "type": "group",
           "ctime": 1729443367127,
           "items": [
@@ -42,12 +48,6 @@
             }
           ],
           "title": "Referencias"
-        },
-        {
-          "type": "file",
-          "ctime": 1729445357370,
-          "path": "Literatura/1729445327700.md",
-          "title": "Ejercicios"
         }
       ],
       "title": "Álgebra Lineal I"
