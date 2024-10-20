@@ -3,7 +3,7 @@ tags:
   - asignatura
 aliases: []
 ---
-# Álgebra Lineal I
+# <%tp.file.title%>
 
 ## Ejercicios
 ```dataview
