@@ -1,14 +1,17 @@
 ---
-tags: 
+tags:
+  - asignatura
 aliases:
   - Álgebra Lineal I
 ---
+# Álgebra Lineal I
 
-## Ej
+## Ejercicios
 ```dataview
 TABLE WITHOUT ID
     link(file.path, aliases[0]) AS Título,
-    pagina
+    referencia AS Referencia,
+    pagina as Página
 FROM
     "Literatura" and #ejercicio
 WHERE
