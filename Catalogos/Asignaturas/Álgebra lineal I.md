@@ -16,6 +16,7 @@ FROM
 WHERE
     contains(coleccion, [[Álgebra lineal I]])
 SORT
+    referencia ASCENDING,
     pagina ASCENDING,
     orden ASCENDING
 ```
