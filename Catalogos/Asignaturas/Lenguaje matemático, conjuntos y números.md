@@ -13,7 +13,7 @@ TABLE WITHOUT ID
 FROM
     "Literatura" and #ejercicio
 WHERE
-    contains(coleccion, [[Álgebra Lineal I]])
+    contains(coleccion, [[Lenguaje matemático, conjuntos y números]])
 SORT
     pagina ASCENDING,
     orden ASCENDING

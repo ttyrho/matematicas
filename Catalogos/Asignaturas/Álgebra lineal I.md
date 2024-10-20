@@ -14,7 +14,7 @@ TABLE WITHOUT ID
 FROM
     "Literatura" and #ejercicio
 WHERE
-    contains(coleccion, [[Álgebra Lineal I]])
+    contains(coleccion, [[Álgebra lineal I]])
 SORT
     pagina ASCENDING,
     orden ASCENDING
