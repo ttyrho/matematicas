@@ -26,7 +26,7 @@
     "singleLineReversedCardSeparator": ":inline-reversed-flashcard:",
     "multilineCardSeparator": ":multiline-flashcard:",
     "multilineReversedCardSeparator": ":multiline-reversed-flashcard:",
-    "multilineCardEndMarker": ":flashcar-dend",
+    "multilineCardEndMarker": ":flashcard-end:",
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
