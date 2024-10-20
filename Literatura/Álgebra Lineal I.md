@@ -4,6 +4,7 @@ aliases:
   - Álgebra Lineal I
 ---
 
+## Ej
 ```dataview
 TABLE WITHOUT ID
     link(file.path, aliases[0]) AS Título,
@@ -11,7 +12,7 @@ TABLE WITHOUT ID
 FROM
     "Literatura" and #ejercicio
 WHERE
-    contains(coleccion, [[aliases[0]]])
+    contains(coleccion, [[Álgebra Lineal I]])
 SORT
     pagina ASCENDING,
     orden ASCENDING
