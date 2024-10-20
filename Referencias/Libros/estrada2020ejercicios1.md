@@ -4,7 +4,7 @@ tags:
 aliases:
   - Ejercicios resueltos de álgebra lineal. Volumen I
 ---
-# [Ejercicios resueltos de álgebra lineal. Volumen I
+# [Ejercicios resueltos de álgebra lineal. Volumen I](https://www.editorialsanzytorres.com/libros/ejercicios-resueltos-de-algebra-lineal-volumen-i/9788417765767/)
 
 >[!info]+ Ficha
 >- **Tipo**:: Monografía
