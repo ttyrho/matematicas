@@ -9,6 +9,12 @@
           "ctime": 1729433976554,
           "path": "Referencias/Libros/delgado2020lenguaje2e.md",
           "title": "Lenguaje Matemático, Conjuntos y Números (2a ed)"
+        },
+        {
+          "type": "group",
+          "ctime": 1729443400109,
+          "items": [],
+          "title": "Untitled group"
         }
       ],
       "title": "Lenguaje matemático, conjuntos y números"
@@ -18,16 +24,23 @@
       "ctime": 1729434073040,
       "items": [
         {
-          "type": "file",
-          "ctime": 1729433917623,
-          "path": "Referencias/Libros/borobia2019algebra2e.md",
-          "title": "Álgebra Lineal y Geometría Vectorial (2a ed)"
-        },
-        {
-          "type": "file",
-          "ctime": 1729434000460,
-          "path": "Referencias/Libros/estrada2020ejercicios1.md",
-          "title": "Ejercicios resueltos de álgebra lineal. Volumen I"
+          "type": "group",
+          "ctime": 1729443367127,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1729434000460,
+              "path": "Referencias/Libros/estrada2020ejercicios1.md",
+              "title": "Ejercicios resueltos de álgebra lineal. Volumen I"
+            },
+            {
+              "type": "file",
+              "ctime": 1729433917623,
+              "path": "Referencias/Libros/borobia2019algebra2e.md",
+              "title": "Álgebra Lineal y Geometría Vectorial (2a ed)"
+            }
+          ],
+          "title": "Referencias"
         }
       ],
       "title": "Álgebra Lineal I"
@@ -37,10 +50,17 @@
       "ctime": 1729434107243,
       "items": [
         {
-          "type": "file",
-          "ctime": 1729434225621,
-          "path": "Referencias/Libros/borobia2019algebra2e.md",
-          "title": "Álgebra Lineal y Geometría Vectorial (2a ed)"
+          "type": "group",
+          "ctime": 1729443386332,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1729434225621,
+              "path": "Referencias/Libros/borobia2019algebra2e.md",
+              "title": "Álgebra Lineal y Geometría Vectorial (2a ed)"
+            }
+          ],
+          "title": "Referencias"
         }
       ],
       "title": "Álgebra Lineal II"
