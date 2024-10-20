@@ -1,10 +1,8 @@
 ---
-tags:
-  - asignatura
+tags: 
 aliases:
-  - Álgebra Lineal I
 ---
-# Álgebra Lineal I
+# Lenguaje matemático, conjuntos y números
 
 ## Ejercicios
 ```dataview

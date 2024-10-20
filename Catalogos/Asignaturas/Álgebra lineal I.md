@@ -1,4 +1,9 @@
-# Lenguaje matem´
+---
+tags:
+  - asignatura
+aliases: []
+---
+# Álgebra Lineal I
 
 ## Ejercicios
 ```dataview
