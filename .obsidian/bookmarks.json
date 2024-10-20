@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1729433954344,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1729433917623,
+          "path": "Referencias/Libros/borobia2019algebra2e.md",
+          "title": "Álgebra Lineal y Geometría Vectorial (2a ed)"
+        }
+      ],
+      "title": "Libros"
+    }
+  ]
+}
