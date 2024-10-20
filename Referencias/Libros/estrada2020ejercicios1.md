@@ -4,7 +4,7 @@ tags:
 aliases:
   - Ejercicios resueltos de álgebra lineal. Volumen I
 ---
-# Ejercicios resueltos de álgebra lineal. Volumen I
+# [Ejercicios resueltos de álgebra lineal. Volumen I
 
 >[!info]+ Ficha
 >- **Tipo**:: Monografía

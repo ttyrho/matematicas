@@ -9,6 +9,18 @@
           "ctime": 1729433917623,
           "path": "Referencias/Libros/borobia2019algebra2e.md",
           "title": "Álgebra Lineal y Geometría Vectorial (2a ed)"
+        },
+        {
+          "type": "file",
+          "ctime": 1729433976554,
+          "path": "Referencias/Libros/delgado2020lenguaje2e.md",
+          "title": "Lenguaje Matemático, Conjuntos y Números (2a ed)"
+        },
+        {
+          "type": "file",
+          "ctime": 1729434000460,
+          "path": "Referencias/Libros/estrada2020ejercicios1.md",
+          "title": "Ejercicios resueltos de álgebra lineal. Volumen I"
         }
       ],
       "title": "Libros"
