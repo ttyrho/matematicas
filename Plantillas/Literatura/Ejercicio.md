@@ -9,3 +9,4 @@ orden:
 Planteamiento
 :multiline-flashcard:
 Solución
+:flashcard-end:
