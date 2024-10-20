@@ -5,16 +5,17 @@
       "ctime": 1729434084774,
       "items": [
         {
-          "type": "file",
-          "ctime": 1729433976554,
-          "path": "Referencias/Libros/delgado2020lenguaje2e.md",
-          "title": "Lenguaje Matemático, Conjuntos y Números (2a ed)"
-        },
-        {
           "type": "group",
           "ctime": 1729443400109,
-          "items": [],
-          "title": "Untitled group"
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1729433976554,
+              "path": "Referencias/Libros/delgado2020lenguaje2e.md",
+              "title": "Lenguaje Matemático, Conjuntos y Números (2a ed)"
+            }
+          ],
+          "title": "Referencias"
         }
       ],
       "title": "Lenguaje matemático, conjuntos y números"
