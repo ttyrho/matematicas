@@ -5,6 +5,10 @@ aliases: []
 ---
 # Álgebra Lineal I
 
+## Referencias
+- [[borobia2019algebra2e|Álgebra Lineal y Geometría Vectorial (2a ed)]]
+- [[estrada2020ejercicios1|Ejercicios resueltos de álgebra lineal. Volumen I]]
+
 ## Ejercicios
 ```dataview
 TABLE WITHOUT ID
